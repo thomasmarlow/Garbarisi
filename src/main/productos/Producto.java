@@ -1,3 +1,4 @@
+// Importando cosas que suenan a importantes
 package main.productos;
 import main.observers.Observer;
 
